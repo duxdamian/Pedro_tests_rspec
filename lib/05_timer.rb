@@ -4,3 +4,6 @@ def time_string
   ss = @seconds%60
   new_time = "#{hh}:#{mm}:#{ss}" 
 end
+
+def
+end
